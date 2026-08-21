@@ -9,3 +9,15 @@ The Brier score is one of the most widely used metrics for evaluating binary (ye
 
 **What it measures:** The average squared difference between the predicted probability and the actual outcome (0 or 1). The score ranges from 0 to 1, with 0 being a perfect score.
 
+For a set of $n$ predictions, the Brier Score is calculated as:
+
+$$
+BS = \frac{1}{n} \sum_{i=1}^{n} (f_i - o_i)^2
+$$
+
+where:
+
+\begin{itemize}
+\item $f_i$ is the predicted probability for event $i$
+\item $o_i$ is the actual outcome for event $i$ (1 if the event happened, 0 if it did not)
+\end{itemize}
