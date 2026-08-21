@@ -20,3 +20,6 @@ The outcome can only be specific, separate, whole-number values that satisfy the
 Example: Number of fish that die in a tank (0, 1, 2, 3...), the number of disease outbreaks in a year
 
 It is often visualized as a bar chart, where each bar represents a specific outcome and the height of the bar is its probability. All the bars add up to 100% (or 1.0).
+
+***Common examples***: Binomial distribution (success/failure counts), Poisson distribution (counting rare events over time).
+
