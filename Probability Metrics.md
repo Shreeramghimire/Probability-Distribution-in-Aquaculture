@@ -36,6 +36,6 @@ The Logarithmic Score, commonly known as Log Loss or Cross-Entropy Loss, is one 
 Unlike accuracy, which only considers whether the predicted class is correct, Log Loss evaluates how much probability the model assigned to the outcome that actually occurred. It therefore rewards models that are both accurate and appropriately confident, while strongly penalizing predictions that assign very low probability to events that actually occur.
 
 
-\[
+$$
 \text{Log Score} = -\frac{1}{n} \sum_{i=1}^{n} \left[ o_i \ln(f_i) + (1 - o_i) \ln(1 - f_i) \right]
-\]
+$$
