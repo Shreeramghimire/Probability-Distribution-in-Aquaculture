@@ -17,7 +17,7 @@ $$
 
 where:
 
-\begin{itemize}
-\item $f_i$ is the predicted probability for event $i$
-\item $o_i$ is the actual outcome for event $i$ (1 if the event happened, 0 if it did not)
-\end{itemize}
+$f_i$ is the predicted probability for event $i$
+
+$o_i$ is the actual outcome for event $i$ (1 if the event happened, 0 if it did not)
+
