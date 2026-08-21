@@ -93,3 +93,7 @@ In simpler terms, CRPS measures the distance between the forecast probability di
 For example, suppose a model predicts the number of sea lice per salmon for the following week. Instead of predicting only:
 
 > **Expected lice count = 0.8**
+
+the model might produce a probability distribution showing the likelihood of different lice counts.
+
+CRPS evaluates how well this entire predicted distribution corresponds to the actual lice count observed the following week.
