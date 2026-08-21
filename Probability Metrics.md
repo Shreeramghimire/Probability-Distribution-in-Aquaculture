@@ -31,3 +31,11 @@ Interpretation: The Brier score heavily penalizes forecasts that are both wrong 
 
 ## 2. Log Loss
 
+The Logarithmic Score, commonly known as Log Loss or Cross-Entropy Loss, is one of the most important scoring rules for evaluating probabilistic forecasts. It is often considered a gold-standard metric because of its strong theoretical foundations in information theory and its close connection to maximum likelihood estimation.
+
+Unlike accuracy, which only considers whether the predicted class is correct, Log Loss evaluates how much probability the model assigned to the outcome that actually occurred. It therefore rewards models that are both accurate and appropriately confident, while strongly penalizing predictions that assign very low probability to events that actually occur.
+
+
+\[
+\text{Log Score} = -\frac{1}{n} \sum_{i=1}^{n} \left[ o_i \ln(f_i) + (1 - o_i) \ln(1 - f_i) \right]
+\]
