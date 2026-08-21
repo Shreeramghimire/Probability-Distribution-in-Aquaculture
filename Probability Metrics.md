@@ -43,3 +43,12 @@ $$
 $p_i$ is the predicted probability for event i.
 
 $y_i$ is the actual outcome for event i (1 if the event happened, 0 if it did not)
+
+**Example:**
+
+Forecast for rain: 90% (p=0.9). It rains (y=1): - [1 * ln(0.9)] = 0.105
+
+Forecast for rain: 90% (p=0.9). It does not rain (y=0): - [0 * ln(0.9) + 1 * ln(0.1)] = 2.303
+
+
+
