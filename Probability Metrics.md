@@ -84,3 +84,4 @@ $y$ = observed value
 
 $\mathbf{1}(x\geq y)$ = indicator function representing the CDF of the observed value
 
+In simpler terms, CRPS measures the distance between the forecast probability distribution and the actual observed value.
