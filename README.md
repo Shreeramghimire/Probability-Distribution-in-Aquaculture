@@ -31,3 +31,7 @@ Example: The exact weight of a salmon (500.2g, 500.21g, 500.215g...), water temp
 Because there are infinite possible values, the probability of any single exact number (like exactly 500.0000g) is practically zero. Instead, we visualize it as a smooth curve (called a Probability Density Function, or PDF). The total area underneath the entire curve equals 100% (or 1.0). The probability of a range (e.g., between 500g and 600g) is the area under the curve between those two points.
 
 ***Common examples***: Normal distribution (the classic "bell curve"), Exponential distribution (time until an event occurs), Uniform distribution (all values equally likely).
+
+## Basic Assumption
+1. All probabilities must be between 0 and 1 (or 0% and 100%). You can never have a negative chance, and you can never have a chance greater than 100%.
+2. 
