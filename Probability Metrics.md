@@ -28,3 +28,6 @@ Forecast for rain: 90% (p=0.9). It rains (y=1): (0.9 - 1)² = 0.01
 Forecast for rain: 90% (p=0.9). It does not rain (y=0): (0.9 - 0)² = 0.81
 
 Interpretation: The Brier score heavily penalizes forecasts that are both wrong and very confident. It is popular because of its straightforward interpretation and its decomposition into metrics measuring calibration and discrimination.
+
+## 2. Log Loss
+
