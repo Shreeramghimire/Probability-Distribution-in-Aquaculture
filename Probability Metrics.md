@@ -7,5 +7,5 @@ A strong probabilistic forecast should therefore be **reliable**, meaning its pr
 ## 1. Brier Score (or Quadratic Score)
 The Brier score is one of the most widely used metrics for evaluating binary (yes/no) probability forecasts. It is essentially the Mean Squared Error (MSE) of the probability forecast.
 
-What it measures: The average squared difference between the predicted probability and the actual outcome (0 or 1). The score ranges from 0 to 1, with 0 being a perfect score.
+**What it measures:** The average squared difference between the predicted probability and the actual outcome (0 or 1). The score ranges from 0 to 1, with 0 being a perfect score.
 
