@@ -12,12 +12,19 @@ The Brier score is one of the most widely used metrics for evaluating binary (ye
 For a set of $n$ predictions, the Brier Score is calculated as:
 
 $$
-BS = \frac{1}{n} \sum_{i=1}^{n} (f_i - o_i)^2
+BS = \frac{1}{n} \sum_{i=1}^{n} (p_i - y_i)^2
 $$
 
 where:
 
-$f_i$ is the predicted probability for event $i$
+$p_i$ is the predicted probability for event $i$
 
-$o_i$ is the actual outcome for event $i$ (1 if the event happened, 0 if it did not)
+$y_i$ is the actual outcome for event $i$ (1 if the event happened, 0 if it did not)
 
+**Example:**
+
+Forecast for rain: 90% (p=0.9). It rains (y=1): (0.9 - 1)² = 0.01
+
+Forecast for rain: 90% (p=0.9). It does not rain (y=0): (0.9 - 0)² = 0.81
+
+Interpretation: The Brier score heavily penalizes forecasts that are both wrong and very confident. It is popular because of its straightforward interpretation and its decomposition into metrics measuring calibration and discrimination.
