@@ -92,4 +92,4 @@ In simpler terms, CRPS measures the distance between the forecast probability di
 
 For example, suppose a model predicts the number of sea lice per salmon for the following week. Instead of predicting only:
 
-<**Expected lice count = 0.8**
+> **Expected lice count = 0.8**
