@@ -72,6 +72,8 @@ CRPS measures the difference between the predicted cumulative distribution funct
 
 Mathematically, it is defined as:
 
-
+$$
+\text{CRPS} = \int_{-\infty}^{\infty} (F(x) - \mathbf{1}_{y \leq x})^2 \, dx
+$$
 
 
