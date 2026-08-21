@@ -85,3 +85,10 @@ $y$ = observed value
 $\mathbf{1}(x\geq y)$ = indicator function representing the CDF of the observed value
 
 In simpler terms, CRPS measures the distance between the forecast probability distribution and the actual observed value.
+
+#### Interpretation
+
+**Lower CRPS is better.** A forecast receives a low score when its probability distribution is concentrated around the value that actually occurs. Forecasts that are poorly centered or excessively uncertain receive higher scores.
+
+For example, suppose a model predicts the number of sea lice per salmon for the following week. Instead of predicting only:
+
