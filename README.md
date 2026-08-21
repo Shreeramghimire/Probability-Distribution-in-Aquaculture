@@ -34,4 +34,12 @@ Because there are infinite possible values, the probability of any single exact 
 
 ## Basic Assumption
 1. All probabilities must be between 0 and 1 (or 0% and 100%). You can never have a negative chance, and you can never have a chance greater than 100%.
-2. 
+2. The total probability must sum to exactly 1. If you add up the probabilities of all possible outcomes (the heights of all the bars, or the total area under the curve), it must equal 100%. This means the distribution covers every possible thing that could happen.
+
+## Defining the Distribution 
+
+Distributions are usually summarized by two key numbers that tell you its shape:
+
+1. Central Tendency (Where is the middle?): This is often the Mean (the average) or the Median (the exact middle point). In aquaculture, this tells you the "expected" weight of a fish at harvest.
+
+2. Spread / Variability (How wide is it?): This is often the Variance or Standard Deviation. This tells you how much uncertainty there is. A small spread means all the fish are roughly the same size (consistent). A large spread means some fish are tiny and some are huge (inconsistent).
