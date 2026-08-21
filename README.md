@@ -16,3 +16,7 @@ Instead of just saying, "A fish might weigh something," a probability distributi
 
 ### 1. Discrete PD
 The outcome can only be specific, separate, whole-number values that satisfy the concept of a discrete distribution. 
+
+Example: Number of fish that die in a tank (0, 1, 2, 3...), the number of disease outbreaks in a year
+
+It is often visualized as a bar chart, where each bar represents a specific outcome and the height of the bar is its probability. All the bars add up to 100% (or 1.0).
