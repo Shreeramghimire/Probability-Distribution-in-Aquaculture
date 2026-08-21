@@ -76,4 +76,11 @@ $$
 \text{CRPS} = \int_{-\infty}^{\infty} (F(x) - \mathbf{1}_{y \leq x})^2 \, dx
 $$
 
+where:
+
+$F(x)$ = predicted cumulative distribution function (CDF)
+
+$y$ = observed value
+
+$\mathbf{1}(x\geq y)$ = indicator function representing the CDF of the observed value
 
