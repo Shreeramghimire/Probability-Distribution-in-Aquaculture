@@ -62,4 +62,16 @@ For example, suppose a model predicts that a salmon farm has a 90% probability o
 
 This makes Log Loss particularly useful for applications such as sea-lice forecasting, where the probability and confidence of future infestation are often more informative than simply predicting whether infestation will or will not occur.
 
+## 3. Continuous Ranked Probability Score (CRPS)
+
+The Continuous Ranked Probability Score (CRPS) is a widely used scoring rule for evaluating probabilistic forecasts of continuous or numeric quantities. It can be viewed as a generalization of the Brier Score from binary or categorical outcomes to continuous variables.
+
+Unlike a point forecast, which predicts a single value, CRPS evaluates the entire probability distribution predicted by the model. This makes it particularly useful when we want to assess not only the expected value of a forecast but also its uncertainty and spread.
+
+CRPS measures the difference between the predicted cumulative distribution function (CDF) and the CDF of the actual observation.
+
+Mathematically, it is defined as:
+
+
+
 
