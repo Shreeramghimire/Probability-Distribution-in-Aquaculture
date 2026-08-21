@@ -39,3 +39,7 @@ Unlike accuracy, which only considers whether the predicted class is correct, Lo
 $$
 \text{Log Score} = -\frac{1}{n} \sum_{i=1}^{n} \left[ y_i \ln(p_i) + (1 - y_i) \ln(1 - p_i) \right]
 $$
+
+$p_i$ is the predicted probability for event i.
+
+$y_i$ is the actual outcome for event i (1 if the event happened, 0 if it did not)
