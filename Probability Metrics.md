@@ -50,5 +50,16 @@ Forecast for rain: 90% (p=0.9). It rains (y=1): - [1 * ln(0.9)] = 0.105
 
 Forecast for rain: 90% (p=0.9). It does not rain (y=0): - [0 * ln(0.9) + 1 * ln(0.1)] = 2.303
 
+**Interpretation**
+
+Lower Log Loss is better. A model receives a small penalty when it assigns a high probability to the outcome that actually occurs. However, it receives a very large penalty when it is highly confident but wrong.
+
+For example, suppose a model predicts that a salmon farm has a 90% probability of experiencing high lice infestation:
+
+- If high infestation occurs → the model is rewarded with a low loss.
+
+- If high infestation does not occur → the model receives a large penalty.
+
+This makes Log Loss particularly useful for applications such as sea-lice forecasting, where the probability and confidence of future infestation are often more informative than simply predicting whether infestation will or will not occur.
 
 
