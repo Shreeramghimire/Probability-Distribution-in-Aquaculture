@@ -6,7 +6,7 @@ This repository presents theory on probability distribution, different toolset, 
 **Start Date: 21 August 2026**
 
 ## Definition
-probability distribution is a mathematical function that describes the likelihood of different possible outcomes occurring in a random experiment or process.
+Probability distribution is a mathematical function that describes the likelihood of different possible outcomes occurring in a random experiment or process.
 
 It is about answering these two questions:
 
