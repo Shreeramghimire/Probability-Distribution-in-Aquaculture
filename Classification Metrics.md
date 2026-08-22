@@ -47,3 +47,4 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 - **False Positive (FP):** False alarm (Type I error).
 - **True Negative (TN):** Correctly predicted negative class.
 
+## Types
