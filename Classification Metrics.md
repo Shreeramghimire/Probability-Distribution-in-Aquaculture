@@ -116,3 +116,15 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 ---
 
+### 6. Fβ-Score (Family of F-Scores)
+**Formula:** `(1 + β²) × (Precision × Recall) / ((β² × Precision) + Recall)`
+
+**Common Variants:**
+- **F0.5-Score** (β=0.5): Precision weighs **twice** as much as Recall.
+- **F2-Score** (β=2): Recall weighs **twice** as much as Precision.
+
+**Salmon Example:**
+- **F2-Score** is ideal for disease surveillance—missing a sick fish (FN) is far worse than treating a healthy one (FP).
+- **F0.5-Score** is ideal for feeding optimization—overfeeding (FP) wastes money and pollutes; underfeeding (FN) is less critical.
+
+---
