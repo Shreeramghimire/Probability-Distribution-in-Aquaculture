@@ -36,4 +36,14 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 **Task: Predict if a salmon has a high sea lice load (>0.5 lice/g) requiring treatment.**
 
+| | **Predicted: High Lice** | **Predicted: Low Lice** |
+|:---|:---|:---|
+| **Actual: High Lice** | **TP = 80** <br> *(Correctly identified infected fish)* | **FN = 20** <br> *(Missed infected fish—**dangerous**)* |
+| **Actual: Low Lice** | **FP = 15** <br> *(Unnecessary treatment—**costly**)* | **TN = 85** <br> *(Correctly identified healthy fish)* |
+
+**Terminology:**
+- **True Positive (TP):** Correctly predicted positive class.
+- **False Negative (FN):** Missed positive (Type II error).
+- **False Positive (FP):** False alarm (Type I error).
+- **True Negative (TN):** Correctly predicted negative class.
 
