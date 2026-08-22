@@ -48,3 +48,18 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 - **True Negative (TN):** Correctly predicted negative class.
 
 ## Types
+
+### 1. Accuracy
+**Formula:** `(TP + TN) / (TP + TN + FP + FN)`
+
+**Interpretation:** "Of all fish, what percentage did I classify correctly?"
+
+**Salmon Example:**
+- If you test 1,000 fish for ISA virus, and 950 are correctly classified → Accuracy = 95%.
+- **However:** If only 2% of fish are infected, a model that always predicts "Healthy" would be 98% accurate—completely useless for disease control.
+
+**When to use:** Balanced datasets where misclassification costs are equal.
+
+**When to avoid:** Imbalanced data (common in aquaculture health monitoring).
+
+---
