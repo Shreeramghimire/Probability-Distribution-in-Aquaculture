@@ -63,3 +63,16 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 **When to avoid:** Imbalanced data (common in aquaculture health monitoring).
 
 ---
+### 2. Precision (Positive Predictive Value)
+**Formula:** `TP / (TP + FP)`
+
+**Interpretation:** "Of all the fish I flagged for treatment, how many were actually infected?"
+
+**Salmon Example:**
+- You flag 100 fish for sea lice treatment.
+- Only 85 actually have high lice loads.
+- **Precision = 85%** → 15 fish received unnecessary treatment (wasted medication, added stress).
+
+**When to prioritize:** When **False Positives are expensive** (treating healthy fish with chemicals, quarantine costs).
+
+---
