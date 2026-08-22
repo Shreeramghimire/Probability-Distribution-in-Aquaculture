@@ -147,4 +147,11 @@ This means a model cannot achieve a good score simply by producing very narrow i
 **Interpretation**
 
 >**Lower Winkler Score is better.**
->
+
+A good prediction interval should be:
+
+- Narrow: providing precise forecasts.
+
+- Well-calibrated: containing the true observation approximately as often as its nominal coverage suggests.
+- Accurate: avoiding large deviations between the predicted interval and the observed value.
+
