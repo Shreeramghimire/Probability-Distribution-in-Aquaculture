@@ -107,3 +107,6 @@ The Winkler Score is a scoring rule specifically designed to evaluate the qualit
 Unlike metrics that evaluate only the predicted value, the Winkler Score considers both the width of the interval and whether the observed value falls within the interval.
 
 **What It Measures**
+
+The Winkler Score rewards narrow prediction intervals when they successfully contain the observed value. However, if the observation falls outside the interval, the score applies a penalty. The farther the observation is from the interval, the larger the penalty.
+
