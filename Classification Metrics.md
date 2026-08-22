@@ -1,1 +1,1 @@
-
+**Classification metrics** are quantitative measures used to evaluate the performance of machine learning models that predict categorical outcomes. They answer critical questions like: *"How accurate is my model?"*, *"What types of mistakes does it make?"*, and *"Can I trust its predictions in production?"*
