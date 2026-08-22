@@ -112,3 +112,11 @@ The Winkler Score rewards narrow prediction intervals when they successfully con
 
 For a prediction interval with lower bound $l$, upper bound $u$, midpoint $m$, significance level $\alpha$, and observed value $y$, the Winkler Score can be expressed as:
 
+$$
+W =
+\begin{cases}
+|y-m|, & l \leq y \leq u \[6pt]
+|y-m| + \frac{2}{\alpha}(l-y), & y < l \[6pt]
+|y-m| + \frac{2}{\alpha}(y-u), & y > u
+\end{cases}
+$$
