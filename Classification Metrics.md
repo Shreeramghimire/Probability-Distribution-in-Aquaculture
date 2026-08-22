@@ -38,8 +38,8 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 | | **Predicted: High Lice** | **Predicted: Low Lice** |
 |:---|:---|:---|
-| **Actual: High Lice** | **TP = 80** <br> *(Correctly identified infected fish)* | **FN = 20** <br> *(Missed infected fish—**dangerous**)* |
-| **Actual: Low Lice** | **FP = 15** <br> *(Unnecessary treatment—**costly**)* | **TN = 85** <br> *(Correctly identified healthy fish)* |
+| **Actual: High Lice** | **TP = 80** <br> *(Correctly identified infected fish)* | **FN = 20** <br> *(Missed infected fish: **dangerous**)* |
+| **Actual: Low Lice** | **FP = 15** <br> *(Unnecessary treatment: **costly**)* | **TN = 85** <br> *(Correctly identified healthy fish)* |
 
 **Terminology:**
 - **True Positive (TP):** Correctly predicted positive class.
