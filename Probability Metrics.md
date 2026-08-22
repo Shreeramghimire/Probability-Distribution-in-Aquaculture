@@ -143,3 +143,8 @@ Suppose a model predicts tomorrow's water temperature with a 90% prediction inte
 If the actual temperature is 23°C, the observation falls above the upper bound of the interval. The Winkler Score therefore applies a penalty based on how far the observation is from the predicted interval.
 
 This means a model cannot achieve a good score simply by producing very narrow intervals. If those intervals frequently miss the actual observations, the resulting penalties will be large.
+
+**Interpretation**
+
+>**Lower Winkler Score is better.**
+>
