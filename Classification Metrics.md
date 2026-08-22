@@ -34,6 +34,6 @@ Every classification metric is derived from the **confusion matrix**, a 2×2 tab
 
 Binary Classification Example: *Sea Lice Detection*
 
-*Task: Predict if a salmon has a high sea lice load (>0.5 lice/g) requiring treatment.*
+**Task: Predict if a salmon has a high sea lice load (>0.5 lice/g) requiring treatment.**
 
 
