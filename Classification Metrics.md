@@ -32,3 +32,8 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 Every classification metric is derived from the **confusion matrix**, a 2×2 table that cross-tabulates actual vs. predicted classes.
 
+Binary Classification Example: *Sea Lice Detection*
+
+*Task: Predict if a salmon has a high sea lice load (>0.5 lice/g) requiring treatment.*
+
+
