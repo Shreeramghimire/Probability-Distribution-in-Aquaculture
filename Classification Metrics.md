@@ -12,7 +12,7 @@ Aquaculture, particularly **Atlantic salmon farming**, generates massive amounts
 - **Health records** (disease outbreaks, parasite loads)
 - **Feeding systems** (automated feeders, consumption rates)
 
-Machine learning models are increasingly deployed to classify:
+**Machine learning models are increasingly deployed to classify:**
 
 | Application | Classification Task | Business Impact |
 |:---|:---|:---|
