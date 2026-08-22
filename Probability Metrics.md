@@ -130,5 +130,6 @@ where:
 - $u$ = upper bound of the prediction interval
   
 - $m$ = midpoint of the prediction interval
+  
 $\alpha$ = significance level
 $1-\alpha$ = nominal coverage of the interval
