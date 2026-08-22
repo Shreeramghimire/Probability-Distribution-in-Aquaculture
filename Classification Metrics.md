@@ -90,3 +90,15 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 **When to prioritize:** When **False Negatives are catastrophic** (contagious diseases, food safety risks).
 
 ---
+### 4. Specificity (True Negative Rate)
+**Formula:** `TN / (TN + FP)`
+
+**Interpretation:** "Of all the healthy fish, how many did I correctly leave alone?"
+
+**Salmon Example:**
+- 900 healthy fish, 855 correctly classified as healthy.
+- **Specificity = 95%** → 45 healthy fish were unnecessarily stressed by handling/treatment.
+
+**When to prioritize:** When confirming negatives is critical (screening blood donors, ensuring safe harvest).
+
+---
