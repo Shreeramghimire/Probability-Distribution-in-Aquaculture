@@ -30,7 +30,7 @@ Machine learning models are increasingly deployed to classify:
 
 Choosing the right metric directly impacts **profitability, sustainability, and animal welfare**.
 
-Every classification metric is derived from the **confusion matrix**, a 2×2 table that cross-tabulates actual vs. predicted classes.
+**Foundation:** Every classification metric is derived from the **confusion matrix**, a 2×2 table that cross-tabulates actual vs. predicted classes.
 
 Binary Classification Example: *Sea Lice Detection*
 
