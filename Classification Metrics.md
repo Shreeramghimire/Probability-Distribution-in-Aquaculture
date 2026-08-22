@@ -142,3 +142,16 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 **When to use:** The **best overall metric** for comparing binary classifiers, especially on imbalanced aquaculture datasets.
 
 ---
+
+### 8. ROC-AUC (Area Under the Receiver Operating Characteristic Curve)
+- **Plot:** True Positive Rate (Recall) vs. False Positive Rate (1 - Specificity) across all thresholds.
+- **Range:** 0.5 (random) to 1.0 (perfect).
+
+**Salmon Example:**
+- You're comparing 3 models for mortality prediction.
+- Model A AUC = 0.92, Model B AUC = 0.88, Model C AUC = 0.78.
+- Choose Model A—it distinguishes at-risk from healthy pens best.
+
+**When to use:** General model comparison when classes are relatively balanced.
+
+**Caveat:** Can overestimate performance on highly imbalanced data (e.g., 1% mortality rate).
