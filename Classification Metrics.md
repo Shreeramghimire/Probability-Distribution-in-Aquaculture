@@ -155,3 +155,7 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 **When to use:** General model comparison when classes are relatively balanced.
 
 **Caveat:** Can overestimate performance on highly imbalanced data (e.g., 1% mortality rate).
+
+---
+
+
