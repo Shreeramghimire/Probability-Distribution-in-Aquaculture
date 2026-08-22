@@ -110,3 +110,5 @@ Unlike metrics that evaluate only the predicted value, the Winkler Score conside
 
 The Winkler Score rewards narrow prediction intervals when they successfully contain the observed value. However, if the observation falls outside the interval, the score applies a penalty. The farther the observation is from the interval, the larger the penalty.
 
+For a prediction interval with lower bound $l$, upper bound $u$, midpoint $m$, significance level $\alpha$, and observed value $y$, the Winkler Score can be expressed as:
+
