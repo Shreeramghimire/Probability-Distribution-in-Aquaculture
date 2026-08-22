@@ -102,3 +102,17 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 **When to prioritize:** When confirming negatives is critical (screening blood donors, ensuring safe harvest).
 
 ---
+
+### 5. F1-Score
+**Formula:** `2 × (Precision × Recall) / (Precision + Recall)`
+
+**Interpretation:** The **harmonic mean** of Precision and Recall—balances both.
+
+**Salmon Example:**
+- Model A: Precision = 90%, Recall = 50% → F1 = 64% (too many missed sick fish).
+- Model B: Precision = 70%, Recall = 80% → F1 = 75% (better balance for disease detection).
+
+**When to use:** When you need a single metric for imbalanced data and care equally about FP and FN.
+
+---
+
