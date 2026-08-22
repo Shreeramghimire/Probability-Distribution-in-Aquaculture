@@ -131,5 +131,6 @@ where:
   
 - $m$ = midpoint of the prediction interval
   
-$\alpha$ = significance level
+- $\alpha$ = significance level
+
 $1-\alpha$ = nominal coverage of the interval
