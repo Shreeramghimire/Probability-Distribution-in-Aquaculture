@@ -128,3 +128,17 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 - **F0.5-Score** is ideal for feeding optimization—overfeeding (FP) wastes money and pollutes; underfeeding (FN) is less critical.
 
 ---
+### 7. Matthews Correlation Coefficient (MCC)
+**Formula:** `(TP×TN - FP×FN) / sqrt((TP+FP)(TP+FN)(TN+FP)(TN+FN))`
+
+**Range:** -1 (complete disagreement) to +1 (perfect), 0 = random guessing.
+
+**Why it matters:** The **only** binary metric that considers all four cells of the confusion matrix. It's robust to class imbalance and provides a **balanced single-number summary**.
+
+**Salmon Example:**
+- Accuracy says 95%, but MCC might reveal the model is only marginally better than random because it's just guessing "Healthy" most of the time.
+- **Goal:** MCC > 0.6 for reliable deployment.
+
+**When to use:** The **best overall metric** for comparing binary classifiers, especially on imbalanced aquaculture datasets.
+
+---
