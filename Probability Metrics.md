@@ -133,4 +133,4 @@ where:
   
 - $\alpha$ = significance level
 
-$1-\alpha$ = nominal coverage of the interval
+- $1-\alpha$ = nominal coverage of the interval
