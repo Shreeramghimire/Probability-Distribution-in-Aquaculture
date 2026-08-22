@@ -136,3 +136,6 @@ where:
 - $1-\alpha$ = nominal coverage of the interval
 
 **For example**, for a 90% prediction interval, $\alpha = 0.10$.
+
+#### Example
+
