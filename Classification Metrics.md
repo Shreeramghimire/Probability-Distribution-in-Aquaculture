@@ -22,3 +22,10 @@ Machine learning models are increasingly deployed to classify:
 |  **Mortality Prediction** | Flag *At-Risk* fish pens | Enables proactive intervention |
 |  **Harvest Quality** | Grade salmon as *Premium/Standard/Reject* | Maximizes export revenue |
 |  **Sex Classification** | Classify *Male/Female* using genetic markers | Optimizes breeding programs |
+
+**The stakes are high:**
+- A **False Negative** in disease detection means a sick fish spreads infection, potentially wiping out an entire pen.
+- A **False Positive** in feeding means wasting expensive feed and polluting the water.
+- A **False Negative** in mortality prediction delays intervention, increasing mortality rates.
+
+Choosing the right metric directly impacts **profitability, sustainability, and animal welfare**.
