@@ -158,4 +158,17 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 ---
 
+### 9. PR-AUC (Precision-Recall Area Under Curve)
+- **Plot:** Precision vs. Recall across all thresholds.
+- More sensitive to imbalanced data than ROC-AUC.
+
+**Salmon Example:**
+- Disease prevalence is 2% (98% healthy).
+- ROC-AUC might show 0.90, but PR-AUC reveals 0.45—the model isn't actually useful for detection.
+- **Action:** Choose PR-AUC over ROC-AUC for rare events (disease outbreaks, mortality).
+
+**When to use:** **Mandatory** for imbalanced aquaculture datasets (most health and behavior data).
+
+---
+
 
