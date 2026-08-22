@@ -77,3 +77,16 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 ---
 
+### 3. Recall / Sensitivity (True Positive Rate)
+**Formula:** `TP / (TP + FN)`
+
+**Interpretation:** "Of all the truly infected fish, how many did I catch?"
+
+**Salmon Example:**
+- There are 100 fish with *Pancreas Disease (PD)* in a pen.
+- Your model detects 90 of them.
+- **Recall = 90%** → 10 infected fish slip through, potentially spreading disease.
+
+**When to prioritize:** When **False Negatives are catastrophic** (contagious diseases, food safety risks).
+
+---
