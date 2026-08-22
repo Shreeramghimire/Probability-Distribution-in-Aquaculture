@@ -155,3 +155,5 @@ A good prediction interval should be:
 - Well-calibrated: containing the true observation approximately as often as its nominal coverage suggests.
 - Accurate: avoiding large deviations between the predicted interval and the observed value.
 
+**Key Advantage**
+
