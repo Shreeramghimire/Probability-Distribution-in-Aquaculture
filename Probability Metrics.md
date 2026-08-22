@@ -101,3 +101,5 @@ CRPS evaluates how well this entire predicted distribution corresponds to the ac
 **For Salmon Lice:** The main advantage of CRPS is that it evaluates both the accuracy and uncertainty of a continuous probabilistic forecast. This makes it particularly suitable for sea-lice forecasting when the objective is to predict not just a single future lice count, but the range of possible infestation levels and their associated probabilities.
 
 ## 4. Winkler Score (for Prediction Intervals)
+
+The Winkler Score is a scoring rule specifically designed to evaluate the quality of prediction intervals. A prediction interval provides a range of values within which the true outcome is expected to fall with a specified probability, such as 90% or 95%.
