@@ -11,3 +11,14 @@ Aquaculture, particularly **Atlantic salmon farming**, generates massive amounts
 - **Video feeds** (fish counting, behavior analysis)
 - **Health records** (disease outbreaks, parasite loads)
 - **Feeding systems** (automated feeders, consumption rates)
+
+Machine learning models are increasingly deployed to classify:
+
+| Application | Classification Task | Business Impact |
+|:---|:---|:---|
+|  **Disease Detection** | Identify if a fish has *ISA virus* or *PD* (Positive/Negative) | Early detection saves millions in stock loss |
+|  **Sea Lice Monitoring** | Classify lice load as *Low/Medium/High* | Determines treatment timing and costs |
+|  **Feeding Optimization** | Predict if fish are *Hungry/Neutral/Full* | Reduces feed waste (30% of operational cost) |
+|  **Mortality Prediction** | Flag *At-Risk* fish pens | Enables proactive intervention |
+|  **Harvest Quality** | Grade salmon as *Premium/Standard/Reject* | Maximizes export revenue |
+|  **Sex Classification** | Classify *Male/Female* using genetic markers | Optimizes breeding programs |
