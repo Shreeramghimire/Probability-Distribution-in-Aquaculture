@@ -105,3 +105,5 @@ CRPS evaluates how well this entire predicted distribution corresponds to the ac
 The Winkler Score is a scoring rule specifically designed to evaluate the quality of prediction intervals. A prediction interval provides a range of values within which the true outcome is expected to fall with a specified probability, such as 90% or 95%.
 
 Unlike metrics that evaluate only the predicted value, the Winkler Score considers both the width of the interval and whether the observed value falls within the interval.
+
+**What It Measures**
