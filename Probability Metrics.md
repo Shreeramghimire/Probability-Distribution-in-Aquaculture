@@ -159,3 +159,4 @@ A good prediction interval should be:
 
 The Winkler Score provides a useful balance between precision and coverage. It discourages models from producing unnecessarily wide intervals while also penalizing models that are too narrow and frequently fail to contain the observed outcome.
 
+For sea-lice forecasting, it can be used to evaluate prediction intervals for variables such as lice counts, water temperature, or other continuous farm-level indicators. This helps determine whether the model's uncertainty ranges are both informative and reliable.
