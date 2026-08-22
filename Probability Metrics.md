@@ -99,3 +99,5 @@ the model might produce a probability distribution showing the likelihood of dif
 CRPS evaluates how well this entire predicted distribution corresponds to the actual lice count observed the following week.
 
 **For Salmon Lice:** The main advantage of CRPS is that it evaluates both the accuracy and uncertainty of a continuous probabilistic forecast. This makes it particularly suitable for sea-lice forecasting when the objective is to predict not just a single future lice count, but the range of possible infestation levels and their associated probabilities.
+
+## 4. Winkler Score (for Prediction Intervals)
