@@ -221,3 +221,6 @@ Metrics Comparison:
 
 > Water quality stabilized → improved growth rates.
 
+**Key Takeaways**
+1. Never use accuracy alone: it's dangerously misleading in aquaculture health data (rare events).
+
