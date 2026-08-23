@@ -230,4 +230,6 @@ Metrics Comparison:
 
 4. Set thresholds using business logic, not default 0.5. Use Youden's J or cost curves.
 
+5. Always look at the confusion matrix—it reveals the cost distribution.
+
 
