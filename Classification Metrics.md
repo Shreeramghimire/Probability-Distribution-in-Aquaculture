@@ -188,6 +188,7 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 Metrics Comparison:
 
+$$
 \begin{table}[h]
 \centering
 \begin{tabular}{|l|c|c|c|c|}
@@ -205,3 +206,4 @@ PR-AUC & 0.52 & 0.68 & 0.71 & 0.03 \\
 \caption{Model performance comparison}
 \label{tab:model_comparison}
 \end{table}
+$$
