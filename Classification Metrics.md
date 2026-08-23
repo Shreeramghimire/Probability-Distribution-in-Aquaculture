@@ -217,3 +217,5 @@ Metrics Comparison:
 
 > Mortality reduced from 3% to 1.8% → saving ~$150,000 per cycle.
 
+> Unnecessary interventions reduced by 40% → saving labor and fish stress. 
+
