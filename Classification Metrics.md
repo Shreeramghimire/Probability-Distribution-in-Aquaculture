@@ -186,3 +186,5 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 **Model:** Random Forest Classifier predicting "Will this smolt die within 7 days?"
 
+Metrics Comparison:
+
