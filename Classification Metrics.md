@@ -242,6 +242,8 @@ Flach, P. (2012). Machine Learning: The Art and Science of Algorithms that Make 
 
 Powers, D. M. W. (2011). "Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation." Journal of Machine Learning Technologies.
 
+Chawla, N. V. (2009). "Data Mining for Imbalanced Datasets: An Overview." In Data Mining and Knowledge Discovery Handbook.
+
 
 
 
