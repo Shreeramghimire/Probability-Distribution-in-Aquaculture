@@ -188,3 +188,20 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 Metrics Comparison:
 
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+\textbf{Metric} & \textbf{Model A} & \textbf{Model B} & \textbf{Model C} & \textbf{Baseline (Always "Alive")} \\
+\hline
+Accuracy & 98.0\% & 97.5\% & 95.0\% & 97.0\% \\
+Recall & 0.45 & 0.82 & 0.95 & 0.00 \\
+Precision & 0.85 & 0.35 & 0.18 & 0.00 \\
+F1-Score & 0.59 & 0.49 & 0.30 & 0.00 \\
+MCC & 0.60 & 0.52 & 0.38 & 0.00 \\
+PR-AUC & 0.52 & 0.68 & 0.71 & 0.03 \\
+\hline
+\end{tabular}
+\caption{Model performance comparison}
+\label{tab:model_comparison}
+\end{table}
