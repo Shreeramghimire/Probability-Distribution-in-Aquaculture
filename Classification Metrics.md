@@ -228,3 +228,6 @@ Metrics Comparison:
 
 3. PR-AUC over ROC-AUC when disease prevalence < 20%.
 
+4. Set thresholds using business logic, not default 0.5. Use Youden's J or cost curves.
+
+
