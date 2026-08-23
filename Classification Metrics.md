@@ -232,4 +232,7 @@ Metrics Comparison:
 
 5. Always look at the confusion matrix—it reveals the cost distribution.
 
+6. Monitor calibration (Brier Score, ECE) when probabilities drive decisions (risk scoring, feeding).
+
+
 
