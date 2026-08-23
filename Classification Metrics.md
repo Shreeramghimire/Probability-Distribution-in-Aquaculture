@@ -248,7 +248,7 @@ Fawcett, T. (2006). "An Introduction to ROC Analysis." Pattern Recognition Lette
 
 Overton, K., et al. (2019). "Sea Lice Monitoring and Treatment Decision Support." Aquaculture Environment Interactions.
 
-
+Sommerset, I., et al. (2020). "Disease Surveillance in Norwegian Salmon Farming." Journal of Fish Diseases.
 
 
 
