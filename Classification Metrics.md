@@ -172,4 +172,5 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 ---
 
+## Real World Example:
 
