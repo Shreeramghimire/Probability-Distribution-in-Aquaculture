@@ -234,5 +234,4 @@ Metrics Comparison:
 
 6. Monitor calibration (Brier Score, ECE) when probabilities drive decisions (risk scoring, feeding).
 
-
-
+7. Context is everything—a metric that's perfect for sea lice detection may be terrible for harvest grading.
