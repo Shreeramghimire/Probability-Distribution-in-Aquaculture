@@ -244,10 +244,9 @@ Flach, P. (2012). Machine Learning: The Art and Science of Algorithms that Make 
 
 Fawcett, T. (2006). "An Introduction to ROC Analysis." Pattern Recognition Letters
 
-
+Overton, K., et al. (2019). "Sea Lice Monitoring and Treatment Decision Support." Aquaculture Environment Interactions.
 
 Powers, D. M. W. (2011). "Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation." Journal of Machine Learning Technologies.
-
 
 Sommerset, I., et al. (2020). "Disease Surveillance in Norwegian Salmon Farming." Journal of Fish Diseases.
 
