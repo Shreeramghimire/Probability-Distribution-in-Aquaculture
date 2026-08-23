@@ -226,3 +226,5 @@ Metrics Comparison:
 
 2. MCC is the best single-number friend for binary classification—use it for model selection.
 
+3. PR-AUC over ROC-AUC when disease prevalence < 20%.
+
