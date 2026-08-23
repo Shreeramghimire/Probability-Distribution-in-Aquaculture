@@ -215,5 +215,5 @@ Metrics Comparison:
 
 **Business Impact:**
 
-
+> Mortality reduced from 3% to 1.8% → saving ~$150,000 per cycle.
 
