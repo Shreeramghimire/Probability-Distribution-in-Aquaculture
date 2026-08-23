@@ -237,3 +237,6 @@ Metrics Comparison:
 7. Context is everything; a metric that's perfect for sea lice detection may be terrible for harvest grading.
 
 **References**
+
+Flach, P. (2012). Machine Learning: The Art and Science of Algorithms that Make Sense of Data. Cambridge University Press.
+
