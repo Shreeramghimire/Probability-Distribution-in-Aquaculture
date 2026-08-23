@@ -242,9 +242,10 @@ Chawla, N. V. (2009). "Data Mining for Imbalanced Datasets: An Overview." In Dat
 
 Flach, P. (2012). Machine Learning: The Art and Science of Algorithms that Make Sense of Data. Cambridge University Press.
 
+
+
 Powers, D. M. W. (2011). "Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation." Journal of Machine Learning Technologies.
 
-Fawcett, T. (2006). "An Introduction to ROC Analysis." Pattern Recognition Letters
 
 Overton, K., et al. (2019). "Sea Lice Monitoring and Treatment Decision Support." Aquaculture Environment Interactions.
 
