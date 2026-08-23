@@ -230,8 +230,8 @@ Metrics Comparison:
 
 4. Set thresholds using business logic, not default 0.5. Use Youden's J or cost curves.
 
-5. Always look at the confusion matrix—it reveals the cost distribution.
+5. Always look at the confusion matrix: it reveals the cost distribution.
 
 6. Monitor calibration (Brier Score, ECE) when probabilities drive decisions (risk scoring, feeding).
 
-7. Context is everything—a metric that's perfect for sea lice detection may be terrible for harvest grading.
+7. Context is everything; a metric that's perfect for sea lice detection may be terrible for harvest grading.
