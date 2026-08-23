@@ -211,7 +211,7 @@ Metrics Comparison:
 
 > Set threshold using Youden's J to optimize farm intervention costs.
 
-> 
+> Monitor MCC and PR-AUC weekly to detect performance drift.
 
 
 
