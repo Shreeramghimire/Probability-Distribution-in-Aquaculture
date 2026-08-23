@@ -205,5 +205,9 @@ Metrics Comparison:
 
 > **Model C:** Excellent recall (95%) but too many false alarms → farm would be overwhelmed with false alerts.
 
+**Decision:**
+
+
+
 
 
