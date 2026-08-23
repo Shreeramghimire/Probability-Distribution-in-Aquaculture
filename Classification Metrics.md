@@ -200,3 +200,6 @@ Metrics Comparison:
 **Analysis:**
 
 > **Model A:** High precision (few false alarms) but misses >50% of sick fish → unacceptable (disease spreads).
+> **Model B:** Good recall (catches 82%) but many false alarms → operationally costly but manageable.
+
+
