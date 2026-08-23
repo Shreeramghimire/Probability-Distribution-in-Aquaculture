@@ -209,6 +209,10 @@ Metrics Comparison:
 
 > Use Model B for production (balance of detection vs. false alarms).
 
+> Set threshold using Youden's J to optimize farm intervention costs.
+
+> 
+
 
 
 
