@@ -175,3 +175,11 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 ## Real-World Example:
 
 **Problem: Early Mortality Detection in Smolt Production**
+
+**Context:**
+
+- A Norwegian salmon farm tracks 10,000 smolt (juvenile salmon) in a recirculating aquaculture system (RAS).
+
+- Historical mortality rate: 3% (rare event).
+
+- Early detection allows removing sick fish before they affect water quality.
