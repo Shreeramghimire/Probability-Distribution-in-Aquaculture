@@ -196,3 +196,7 @@ Metrics Comparison:
 | F1-Score | 0.59 | 0.49 | 0.30 | 0.00 |
 | MCC | 0.60 | 0.52 | 0.38 | 0.00 |
 | PR-AUC | 0.52 | 0.68 | 0.71 | 0.03 |
+
+**Analysis:**
+
+> **Model A:** High precision (few false alarms) but misses >50% of sick fish → unacceptable (disease spreads).
