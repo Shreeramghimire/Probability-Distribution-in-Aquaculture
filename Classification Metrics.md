@@ -203,7 +203,7 @@ Metrics Comparison:
 
 > **Model B:** Good recall (catches 82%) but many false alarms → operationally costly but manageable.
 
->
+> **Model C:** Excellent recall (95%) but too many false alarms → farm would be overwhelmed with false alerts.
 
 
 
