@@ -183,3 +183,6 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 - Historical mortality rate: 3% (rare event).
 
 - Early detection allows removing sick fish before they affect water quality.
+
+**Model:** Random Forest Classifier predicting "Will this smolt die within 7 days?"
+
