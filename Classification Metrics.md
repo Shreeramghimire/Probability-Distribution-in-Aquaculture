@@ -244,6 +244,9 @@ Powers, D. M. W. (2011). "Evaluation: From Precision, Recall and F-Measure to RO
 
 Chawla, N. V. (2009). "Data Mining for Imbalanced Datasets: An Overview." In Data Mining and Knowledge Discovery Handbook.
 
+Fawcett, T. (2006). "An Introduction to ROC Analysis." Pattern Recognition Letters
+
+
 
 
 
