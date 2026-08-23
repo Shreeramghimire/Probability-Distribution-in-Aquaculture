@@ -224,3 +224,5 @@ Metrics Comparison:
 **Key Takeaways**
 1. Never use accuracy alone: it's dangerously misleading in aquaculture health data (rare events).
 
+2. MCC is the best single-number friend for binary classification—use it for model selection.
+
