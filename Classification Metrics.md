@@ -207,6 +207,8 @@ Metrics Comparison:
 
 **Decision:**
 
+> Use Model B for production (balance of detection vs. false alarms).
+
 
 
 
