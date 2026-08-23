@@ -172,5 +172,6 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 
 ---
 
-## Real World Example:
+## Real-World Example:
 
+**Problem: Early Mortality Detection in Smolt Production**
