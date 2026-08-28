@@ -152,7 +152,7 @@ Choosing the right metric directly impacts **profitability, sustainability, and 
 **Salmon Example:**
 - You're comparing 3 models for mortality prediction.
 - Model A AUC = 0.92, Model B AUC = 0.88, Model C AUC = 0.78.
-- Choose Model A (it distinguishes at-risk from healthy pens best.)
+- Choose Model A (it distinguishes at-risk from healthy pens best)
 
 **When to use:** General model comparison when classes are relatively balanced.
 
